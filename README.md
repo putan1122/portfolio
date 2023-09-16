@@ -1,46 +1,85 @@
-# Data Scientist
+# Pu Tan
+#### Contact: [putan@seas.upenn.edu](mailto:putan@seas.upenn.edu) | (445) 800-6900 | [LinkedIn](https://www.linkedin.com/in/pu-tan1122)
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB, R, Github, JAVA, JavaScript, Spark, MongoDB 
+## Technical Skills
+Programming: Java, Python, SQL, R, JavaScript, MATLAB  
+Analytics & Tools: MySQL, Anaconda, Apache Spark, Tableau, Visual Studio, Microsoft Office Suite (Excel), Oracle, DataGrip, Github, AWS  
+Libraries: NumPy, Pandas, SciPy, scikit-learn, matplotlib, Plotly, Seaborn, Biogeme
 
 ## Education
-- Master of Science in Engineering in Data Science | University of Pennsylvania (_May 2024_)
-- Bachelor of Science in Probability and Statistics | University of California, San Diego (_May 2022_) 
-- Bachelor of Arts in Economics | University of California, San Diego (_May 2022_)
+- Master of Science in Engineering in Data Science | University of Pennsylvania (_Expected May 2024_)  
+  - GPA: 3.80
+- Bachelor of Science in Probability and Statistics; Bachelor of Arts in Economics | University of California, San Diego (_Sept 2018 - June 2022_)  
+  - GPA: 3.92
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+### Main Courses
+Computational Statistics and Data Analysis, Statistical Inference, Stochastic Processes, Applied Machine Learning, Data Structure and Algorithms, Databases & Information System, Internet and Web Systems, Natural Language Processing (Computational Linguistics)
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+## Professional Experience
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+**Machine Learning Engineer Intern, Metallurgical Group Corporation (Data Technology Institute), Mainland, China (_Jun. 2023 - Aug.2023_)**
+- Employed traditional statistical models and fine-tuning on pre-trained deep learning models to achieve time-series forecasting performance using PyTorch on 312 distinct steel smelting process-related data features, enhancing prediction accuracy by 8% over standard models
+- Designed and executed novel algorithm in a Jupyter Notebook environment to capture and predict temporal dependencies in multivariate time-series forecasting
+- Utilized the fine-tuned models to predict the quality of smelting materials, captured non-linear data patterns in smelting process, converting complex SQL queries and analyses into actionable insights, enhancing the strategic decision-making process in machinery investments
+- Assisted in managing data pipelines by working closely with backend engineers to create an API for integrating deep learning model into big data production system
+- Drove advancements in long-term forecasting and anomaly detection capabilities, shared insightful findings through Tableau dashboards
+![image](https://github.com/putan1122/portfolio/assets/112485694/78436f1f-b72b-43a2-9666-2f7f08988956)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+**Data Analyst Intern, San Diego Supercomputer Center (SDSC) Research Data Services, San Diego, CA (_Mar. 2022 - Jun. 2022_)**
+- Conducted hypothesis testing on 6 market cloud services to identify key instances; optimized existing strategies on the identified instances, e.g., placement, marketing and budgeting for external clients based on historical usage data
+- Built the Dynamics CRM system via complex SQL queries on 650+ unstructured data records to automatically identify discrepancies; developed interactive Tableau dashboards to track sales key metrics, improving 60% efficiency
+- Implemented SVM to predicted Cloud Compute demand and achieved 98.1% accuracy; found key factors on client’s trade flows and summarized the results with 25-page reports via Plotly
+- Designed and conducted A/B testing to explore the provided optimization methods on data-preprocessing for recommendation message system, which increased the conversion rate by 2%; developed the data-preprocessing pipeline on 600+ Public Cloud Services accounts and invoices using Python; reduced 5 labor hours per week
+- Developed financial dashboards to track 5 key KPIs (e.g. churn rate, net profit) to communicate demand trend and share actionable decisions with business leadership for next business decision making process, receiving 100% positive feedback
+![image](https://github.com/putan1122/portfolio/assets/112485694/c5d997cf-9897-462a-b27d-a2b0e1fab8cb)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+**Data Analyst Intern, Shepherd Ventures, Inc., San Diego, CA (_Apr. 2021 - Sep. 2021_)**
+- Led stock selection project and implemented a Genetic Algorithm to generate initial stock combinations; optimized the stock combinations via logistic regression with hyper-parameter tuning for stock price prediction which achieved 0.0115 MAE
+- Leveraged advanced Excel functionalities, such as pivot tables and conditional lookups, to analyze and interpret complex datasets
+- Conducted significance testing between the results generated by equal allocation policy and minimal risk strategy with neural network (NN); verified NN can significantly improve prediction by 8% MPE and improve the profits
+- Evaluated portfolios by performing Fama's decomposition, examining time plots of the performance of all portfolios benchmarked against S&P 500, and calculating 99% 5-day VaR from Monte Carlo simulations
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## Project Experience
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+### BookPilot Web Application (_Jan. 2023 - May 2023_)
+- Led the development and quality assurance of BookPilot, a web application aimed at streamlining the process of exploring book,author,review
+- Conducted extensive data cleaning and normalization on a large dataset of over 212,000 unique books, leveraged B and B+ Trees for optimizing data retrieval operations
+- Created and optimized complex SQL queries in Oracle for data retrieval, improving query performance by 70%
+- Developed and executed over 150 test cases, both automated and manual, ensuring the reliability and efficiency of features like user login, book and author search, and genre ranking
+- Ensured the integrity and efficiency of the database by maintaining it in the Third Normal Form (3NF) for eliminating data redundancies
+- Employed XQuery and XML Schemas in data integration processes, enhanced the application's data handling capabilities
+- Developed a highly responsive front-end interface using a combination of HTML, CSS, JavaScript, and Node.js, enhancing user engagement significantly
+- Utilized the React framework for building the web application, allowing efficient state management and the rendering of components, which led to an improved user experience
+- Implemented a user login feature with integrated Google and Twitter sign-in options, employing Firebase for user authentication and data security
+![image](https://github.com/putan1122/portfolio/assets/112485694/1442c518-db09-4668-b3bf-b8e5a3d344a7)
+
+
+### COVID-19 Vaccines Distribution Policy Design with Reinforcement Learning (_Jun. 2021 - Sep. 2021_)
+-Researched and developed linear regression, random forest, and AdaBoost models to estimate confirmed COVID-19 cases in San Diego; implemented deep Q-network (DQN) model with the estimated number of cases to distribute three types of vaccines, decreasing confirmed cases by 1.9%  
+Designed a prediction + optimization framework consisting of random forest and DQN to derive the optimal distribution strategy; summarized the proposed method as a first-author research paper which was published in 2021 4th International Conference on Big Data and Machine Learning (Paper ID: BP2103)  
+![image](https://github.com/putan1122/portfolio/assets/112485694/74468a37-f26f-469c-b4cd-81d791e7d77d)
+
+### Recommender Systems Design & Five ML Algorithms Implementation (_Sep. 2021 - Nov. 2021_)
+- Investigated and evaluated machine learning algorithms on Amazon recommendation datasets; designed and developed quantitative analysis system to extract samples from datasets with 255,404 users and items
+- Implemented three classical Machine Learning algorithms, e.g., BPRMF, ItemKNN; optimized the classical methods with two state-of-the-art deep learning methods, such as DeepFM and LightGCN with 17% improvement in recall and 11% in Normalized Discounted Cumulative Gain (NDCG)
+- Performed hyper-parameter tuning with 10-fold cross-validation, achieving 75% recall and 56% NDCG
+![image](https://github.com/putan1122/portfolio/assets/112485694/cfb5bf5a-7b69-4cc6-a4be-93d9a1b92a1c)
+
+
+### Sentiment Analysis for Marketing via NLP (_Sep. 2022 - Nov. 2022_)                                                                     
+- Applied NLPK to process and classify the language text and performed exploratory data analysis on IMDB social media comment and Amazon review with Pandas in Python, ELT processing with SQL queries in Spark
+- Analyzing the reviews with a state-of-the-art deep learning technique, BERT and DistilBERT; evaluated DistilBERT on predicting the positive sentiment assessment and achieved 66% recall, 60% precision
+![image](https://github.com/putan1122/portfolio/assets/112485694/f9a950a5-0c75-4448-aa82-ae8ee8927ce0)
 
 ## Publications & Competition
 
 - [Data Science Blog](https://medium.com/@shawhin)
+- [Data Science YouTube Channel](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- **Predicting Medical Conditions with InVitro Cell Research (Kaggle Ranked Top 4%)** (_May 2023 - Aug. 2023_)
+  - Identified age-related features in anonymized data, improving balanced log-loss scores
+  - Applied robust feature engineering techniques to ensure model stability and scalability on limited datasets
+
+
