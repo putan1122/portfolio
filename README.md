@@ -79,7 +79,7 @@ Computational Statistics and Data Analysis, Statistical Inference, Stochastic Pr
 
 - [Data Science Blog](https://medium.com/@shawhin)
 
-- **Predicting Medical Conditions with InVitro Cell Research (Kaggle Ranked Top 4%)** (_May 2023 - Aug. 2023_)
+- ### Predicting Medical Conditions with InVitro Cell Research (Kaggle Ranked Top 4%)** (_May 2023 - Aug. 2023_)
   - Identified age-related features in anonymized data, improving balanced log-loss scores
   - Applied robust feature engineering techniques to ensure model stability and scalability on limited datasets [See the competition here](https://www.kaggle.com/competitions/icr-identify-age-related-conditions)
   
