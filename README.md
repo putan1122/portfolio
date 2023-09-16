@@ -23,16 +23,16 @@ Computational Statistics and Data Analysis, Statistical Inference, Stochastic Pr
 - Utilized the fine-tuned models to predict the quality of smelting materials, captured non-linear data patterns in smelting process, converting complex SQL queries and analyses into actionable insights, enhancing the strategic decision-making process in machinery investments
 - Assisted in managing data pipelines by working closely with backend engineers to create an API for integrating deep learning model into big data production system
 - Drove advancements in long-term forecasting and anomaly detection capabilities, shared insightful findings through Tableau dashboards
-![image](https://github.com/putan1122/portfolio/assets/112485694/78436f1f-b72b-43a2-9666-2f7f08988956)
+
 
 
 **Data Analyst Intern, San Diego Supercomputer Center (SDSC) Research Data Services, San Diego, CA (_Mar. 2022 - Jun. 2022_)**
 - Conducted hypothesis testing on 6 market cloud services to identify key instances; optimized existing strategies on the identified instances, e.g., placement, marketing and budgeting for external clients based on historical usage data
 - Built the Dynamics CRM system via complex SQL queries on 650+ unstructured data records to automatically identify discrepancies; developed interactive Tableau dashboards to track sales key metrics, improving 60% efficiency
-- Implemented SVM to predicted Cloud Compute demand and achieved 98.1% accuracy; found key factors on client’s trade flows and summarized the results with 25-page reports via Plotly
+- Implemented SVM to predicted Cloud Compute demand and achieved 98.1% accuracy; found key factors on client’s trade flows and summarized the results with 25-page reports via Plotly 
 - Designed and conducted A/B testing to explore the provided optimization methods on data-preprocessing for recommendation message system, which increased the conversion rate by 2%; developed the data-preprocessing pipeline on 600+ Public Cloud Services accounts and invoices using Python; reduced 5 labor hours per week
 - Developed financial dashboards to track 5 key KPIs (e.g. churn rate, net profit) to communicate demand trend and share actionable decisions with business leadership for next business decision making process, receiving 100% positive feedback
-![image](https://github.com/putan1122/portfolio/assets/112485694/c5d997cf-9897-462a-b27d-a2b0e1fab8cb)
+
 
 **Data Analyst Intern, Shepherd Ventures, Inc., San Diego, CA (_Apr. 2021 - Sep. 2021_)**
 - Led stock selection project and implemented a Genetic Algorithm to generate initial stock combinations; optimized the stock combinations via logistic regression with hyper-parameter tuning for stock price prediction which achieved 0.0115 MAE
@@ -44,7 +44,7 @@ Computational Statistics and Data Analysis, Statistical Inference, Stochastic Pr
 
 ## Project Experience
 
-### BookPilot Web Application (_Jan. 2023 - May 2023_)
+### BookPilot Web Application (_Jan. 2023 - May 2023_) 
 - Led the development and quality assurance of BookPilot, a web application aimed at streamlining the process of exploring book,author,review
 - Conducted extensive data cleaning and normalization on a large dataset of over 212,000 unique books, leveraged B and B+ Trees for optimizing data retrieval operations
 - Created and optimized complex SQL queries in Oracle for data retrieval, improving query performance by 70%
@@ -54,30 +54,30 @@ Computational Statistics and Data Analysis, Statistical Inference, Stochastic Pr
 - Developed a highly responsive front-end interface using a combination of HTML, CSS, JavaScript, and Node.js, enhancing user engagement significantly
 - Utilized the React framework for building the web application, allowing efficient state management and the rendering of components, which led to an improved user experience
 - Implemented a user login feature with integrated Google and Twitter sign-in options, employing Firebase for user authentication and data security
-![image](https://github.com/putan1122/portfolio/assets/112485694/1442c518-db09-4668-b3bf-b8e5a3d344a7)
+
 
 
 ### COVID-19 Vaccines Distribution Policy Design with Reinforcement Learning (_Jun. 2021 - Sep. 2021_)
 -Researched and developed linear regression, random forest, and AdaBoost models to estimate confirmed COVID-19 cases in San Diego; implemented deep Q-network (DQN) model with the estimated number of cases to distribute three types of vaccines, decreasing confirmed cases by 1.9%  
 Designed a prediction + optimization framework consisting of random forest and DQN to derive the optimal distribution strategy; summarized the proposed method as a first-author research paper which was published in 2021 4th International Conference on Big Data and Machine Learning (Paper ID: BP2103)  
-![image](https://github.com/putan1122/portfolio/assets/112485694/74468a37-f26f-469c-b4cd-81d791e7d77d)
+
 
 ### Recommender Systems Design & Five ML Algorithms Implementation (_Sep. 2021 - Nov. 2021_)
 - Investigated and evaluated machine learning algorithms on Amazon recommendation datasets; designed and developed quantitative analysis system to extract samples from datasets with 255,404 users and items
 - Implemented three classical Machine Learning algorithms, e.g., BPRMF, ItemKNN; optimized the classical methods with two state-of-the-art deep learning methods, such as DeepFM and LightGCN with 17% improvement in recall and 11% in Normalized Discounted Cumulative Gain (NDCG)
 - Performed hyper-parameter tuning with 10-fold cross-validation, achieving 75% recall and 56% NDCG
-![image](https://github.com/putan1122/portfolio/assets/112485694/cfb5bf5a-7b69-4cc6-a4be-93d9a1b92a1c)
+
 
 
 ### Sentiment Analysis for Marketing via NLP (_Sep. 2022 - Nov. 2022_)                                                                     
 - Applied NLPK to process and classify the language text and performed exploratory data analysis on IMDB social media comment and Amazon review with Pandas in Python, ELT processing with SQL queries in Spark
 - Analyzing the reviews with a state-of-the-art deep learning technique, BERT and DistilBERT; evaluated DistilBERT on predicting the positive sentiment assessment and achieved 66% recall, 60% precision
-![image](https://github.com/putan1122/portfolio/assets/112485694/f9a950a5-0c75-4448-aa82-ae8ee8927ce0)
+
 
 ## Publications & Competition
 
 - [Data Science Blog](https://medium.com/@shawhin)
-- [Data Science YouTube Channel](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+
 - **Predicting Medical Conditions with InVitro Cell Research (Kaggle Ranked Top 4%)** (_May 2023 - Aug. 2023_)
   - Identified age-related features in anonymized data, improving balanced log-loss scores
   - Applied robust feature engineering techniques to ensure model stability and scalability on limited datasets
