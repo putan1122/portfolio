@@ -6,6 +6,11 @@ Programming: Java, Python, SQL, R, JavaScript, MATLAB
 Analytics & Tools: MySQL, Anaconda, Apache Spark, Tableau, Visual Studio, Microsoft Office Suite (Excel), Oracle, DataGrip, Github, AWS  
 Libraries: NumPy, Pandas, SciPy, scikit-learn, matplotlib, Plotly, Seaborn, Biogeme
 
+## Repo
+[Read the paper here](https://drive.google.com/file/d/1ig61UdLxVR-UuEGop_c0rCfp4_tZ4W5c/view?usp=sharing)
+[Read the paper here](https://drive.google.com/file/d/1ig61UdLxVR-UuEGop_c0rCfp4_tZ4W5c/view?usp=sharing)
+[Read the paper here](https://drive.google.com/file/d/1ig61UdLxVR-UuEGop_c0rCfp4_tZ4W5c/view?usp=sharing)
+
 ## Education
 - Master of Science in Engineering in Data Science | University of Pennsylvania (_Expected May 2024_)  
   - GPA: 3.80
