@@ -27,9 +27,9 @@ Computational Statistics and Data Analysis, Statistical Inference, Stochastic Pr
 ## Professional Experience
 
 **Machine Learning Engineer Intern, Metallurgical Group Corporation (Data Technology Institute), Mainland, China (_Jun. 2023 - Aug.2023_)**
-− Utilized a blend of modern machine learning techniques and traditional statistical models to conduct time-series
+- Utilized a blend of modern machine learning techniques and traditional statistical models to conduct time-series
 forecasting on 312 features related to steel smelting processes, resulting in an 8% enhancement in RMSE Leveraged statistical models to identify temporal dependencies in multivariate data and fine-tuned deep learning models to capture non-linear patterns, achieving a 5% improvement in MAE
-− Integrated models into large-scale data production ecosystem through API development, in collaboration with backend engineers, to facilitate real-time analytics
+- Integrated models into large-scale data production ecosystem through API development, in collaboration with backend engineers, to facilitate real-time analytics
 
 
 
