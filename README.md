@@ -54,15 +54,8 @@ demonstrating ability to engage with leadership
 ## Project Experience
 
 ### BookPilot Web Application (_Jan. 2023 - May 2023_) 
-- Led the development and quality assurance of BookPilot, a web application aimed at streamlining the process of exploring book,author,review
-- Conducted extensive data cleaning and normalization on a large dataset of over 212,000 unique books, leveraged B and B+ Trees for optimizing data retrieval operations
-- Created and optimized complex SQL queries in Oracle for data retrieval, improving query performance by 70%
-- Developed and executed over 150 test cases, both automated and manual, ensuring the reliability and efficiency of features like user login, book and author search, and genre ranking
-- Ensured the integrity and efficiency of the database by maintaining it in the Third Normal Form (3NF) for eliminating data redundancies
-- Employed XQuery and XML Schemas in data integration processes, enhanced the application's data handling capabilities
-- Developed a highly responsive front-end interface using a combination of HTML, CSS, JavaScript, and Node.js, enhancing user engagement significantly
-- Utilized the React framework for building the web application, allowing efficient state management and the rendering of components, which led to an improved user experience
-- Implemented a user login feature with integrated Google and Twitter sign-in options, employing Firebase for user authentication and data security
+[Demo Here](https://drive.google.com/file/d/1ig61UdLxVR-UuEGop_c0rCfp4_tZ4W5c/view?usp=sharing)
+BookPilot, a web application aimed at streamlining the process of exploring book, author,review
 
 
 
@@ -73,15 +66,17 @@ demonstrating ability to engage with leadership
 
 
 ### Recommender Systems Design & Five ML Algorithms Implementation (_Sep. 2021 - Nov. 2021_)
+[Code Here](https://drive.google.com/file/d/1ig61UdLxVR-UuEGop_c0rCfp4_tZ4W5c/view?usp=sharing)
 - Investigated and evaluated machine learning algorithms on Amazon recommendation datasets; designed and developed quantitative analysis system to extract samples from datasets with 255,404 users and items
 - Implemented three classical Machine Learning algorithms, e.g., BPRMF, ItemKNN; optimized the classical methods with two state-of-the-art deep learning methods, such as DeepFM and LightGCN with 17% improvement in recall and 11% in Normalized Discounted Cumulative Gain (NDCG)
 - Performed hyper-parameter tuning with 10-fold cross-validation, achieving 75% recall and 56% NDCG
 
 
 
-### Sentiment Analysis for Marketing via NLP (_Sep. 2022 - Nov. 2022_)                                                                     
+### Sentiment Analysis for Marketing via NLP (_Sep. 2022 - Nov. 2022_) 
+[Code Here](https://drive.google.com/file/d/1ig61UdLxVR-UuEGop_c0rCfp4_tZ4W5c/view?usp=sharing)
 - Applied NLPK to process and classify the language text and performed exploratory data analysis on IMDB social media comment and Amazon review with Pandas in Python, ELT processing with SQL queries in Spark
-- Analyzing the reviews with a state-of-the-art deep learning technique, BERT and DistilBERT; evaluated DistilBERT on predicting the positive sentiment assessment and achieved 66% recall, 60% precision
+- Analyzed the reviews with a state-of-the-art deep learning technique, BERT and DistilBERT; evaluated DistilBERT on predicting the positive sentiment assessment and achieved 66% recall, 60% precision
 
 
 ## Publications & Competition
@@ -89,8 +84,10 @@ demonstrating ability to engage with leadership
 - [Data Science Blog](https://medium.com/@shawhin)
 
 - ### Predicting Medical Conditions with InVitro Cell Research (Kaggle Ranked Top 4%)** (_May 2023 - Aug. 2023_)
+[Code Here](https://drive.google.com/file/d/1ig61UdLxVR-UuEGop_c0rCfp4_tZ4W5c/view?usp=sharing)
   - Identified age-related features in anonymized data, improving balanced log-loss scores
   - Applied robust feature engineering techniques to ensure model stability and scalability on limited datasets [See the competition here](https://www.kaggle.com/competitions/icr-identify-age-related-conditions)
+  - 
   
 
 
