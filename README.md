@@ -32,16 +32,11 @@ forecasting on 312 features related to steel smelting processes, resulting in an
 - Integrated models into large-scale data production ecosystem through API development, in collaboration with backend engineers, to facilitate real-time analytics
 
 
-
-
 **Data Analyst Intern, San Diego Supercomputer Center (SDSC) Research Data Services, San Diego, CA (_Mar. 2022 - Jun. 2022_)**
-- Conducted hypothesis testing on 6 market cloud services, optimizing strategies like placement and marketing, and employed SVM for Cloud Compute demand prediction with 98.1% accuracy
-− Managed Dynamics CRM system through complex SQL queries on 650+ records, achieving 60% eﬀiciency improvement
-− Authored comprehensive documentation on client trade flows and developed Tableau dashboards to enhance sales
-metrics tracking
-− Delivered impactful presentations to external clients on platform utility, successfully retaining key accounts and
-demonstrating ability to engage with leadership
-
+- Conducted hypothesis testing on 6 market cloud services, optimizing strategies like placement and marketing, and employed SVM for Cloud Compute demand prediction with 98.1% accurac
+- Managed Dynamics CRM system through complex SQL queries on 650+ records, achieving 60% eﬀiciency improvement
+- Authored comprehensive documentation on client trade flows and developed Tableau dashboards to enhance sales metrics tracking
+- Delivered impactful presentations to external clients on platform utility, successfully retaining key accounts
 
 **Business Analyst Intern, Shepherd Ventures, Inc., San Diego, CA (_Apr. 2021 - Sep. 2021_)**
 - Assisted in stock selection project and implemented a Genetic Algorithm to generate initial stock combinations
@@ -87,7 +82,6 @@ BookPilot, a web application aimed at streamlining the process of exploring book
 [Code Here](https://drive.google.com/file/d/1ig61UdLxVR-UuEGop_c0rCfp4_tZ4W5c/view?usp=sharing)
   - Identified age-related features in anonymized data, improving balanced log-loss scores
   - Applied robust feature engineering techniques to ensure model stability and scalability on limited datasets [See the competition here](https://www.kaggle.com/competitions/icr-identify-age-related-conditions)
-  - 
   
 
 
