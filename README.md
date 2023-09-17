@@ -27,20 +27,20 @@ Computational Statistics and Data Analysis, Statistical Inference, Stochastic Pr
 ## Professional Experience
 
 **Machine Learning Engineer Intern, Metallurgical Group Corporation (Data Technology Institute), Mainland, China (_Jun. 2023 - Aug.2023_)**
-- Employed traditional statistical models and fine-tuning on pre-trained deep learning models to achieve time-series forecasting performance using PyTorch on 312 distinct steel smelting process-related data features, enhancing prediction accuracy by 8% over standard models
-- Designed and executed novel algorithm in a Jupyter Notebook environment to capture and predict temporal dependencies in multivariate time-series forecasting
-- Utilized the fine-tuned models to predict the quality of smelting materials, captured non-linear data patterns in smelting process, converting complex SQL queries and analyses into actionable insights, enhancing the strategic decision-making process in machinery investments
-- Assisted in managing data pipelines by working closely with backend engineers to create an API for integrating deep learning model into big data production system
-- Drove advancements in long-term forecasting and anomaly detection capabilities, shared insightful findings through Tableau dashboards
+− Utilized a blend of modern machine learning techniques and traditional statistical models to conduct time-series
+forecasting on 312 features related to steel smelting processes, resulting in an 8% enhancement in RMSE Leveraged statistical models to identify temporal dependencies in multivariate data and fine-tuned deep learning models to capture non-linear patterns, achieving a 5% improvement in MAE
+− Integrated models into large-scale data production ecosystem through API development, in collaboration with backend engineers, to facilitate real-time analytics
+
 
 
 
 **Data Analyst Intern, San Diego Supercomputer Center (SDSC) Research Data Services, San Diego, CA (_Mar. 2022 - Jun. 2022_)**
-- Conducted hypothesis testing on 6 market cloud services to identify key instances; optimized existing strategies on the identified instances, e.g., placement, marketing and budgeting for external clients based on historical usage data
-- Built the Dynamics CRM system via complex SQL queries on 650+ unstructured data records to automatically identify discrepancies; developed interactive Tableau dashboards to track sales key metrics, improving 60% efficiency
-- Implemented SVM to predicted Cloud Compute demand and achieved 98.1% accuracy; found key factors on client’s trade flows and summarized the results with 25-page reports via Plotly 
-- Designed and conducted A/B testing to explore the provided optimization methods on data-preprocessing for recommendation message system, which increased the conversion rate by 2%; developed the data-preprocessing pipeline on 600+ Public Cloud Services accounts and invoices using Python; reduced 5 labor hours per week
-- Developed financial dashboards to track 5 key KPIs (e.g. churn rate, net profit) to communicate demand trend and share actionable decisions with business leadership for next business decision making process, receiving 100% positive feedback
+− Conducted hypothesis testing on 6 market cloud services, optimizing strategies like placement and marketing, and employed SVM for Cloud Compute demand prediction with 98.1% accuracy
+− Managed Dynamics CRM system through complex SQL queries on 650+ records, achieving 60% eﬀiciency improvement
+− Authored comprehensive documentation on client trade flows and developed Tableau dashboards to enhance sales
+metrics tracking
+− Delivered impactful presentations to external clients on platform utility, successfully retaining key accounts and
+demonstrating ability to engage with leadership
 
 
 **Data Analyst Intern, Shepherd Ventures, Inc., San Diego, CA (_Apr. 2021 - Sep. 2021_)**
