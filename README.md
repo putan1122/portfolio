@@ -8,7 +8,11 @@ Libraries: NumPy, Pandas, SciPy, scikit-learn, matplotlib, Plotly, Seaborn, Biog
 
 ## Repo
 [ML project here](https://drive.google.com/file/d/1ig61UdLxVR-UuEGop_c0rCfp4_tZ4W5c/view?usp=sharing)
+
+
 [Data Science project here](https://drive.google.com/file/d/1ig61UdLxVR-UuEGop_c0rCfp4_tZ4W5c/view?usp=sharing)
+
+
 [Data Visualization Project here](https://drive.google.com/file/d/1ig61UdLxVR-UuEGop_c0rCfp4_tZ4W5c/view?usp=sharing)
 
 ## Education
