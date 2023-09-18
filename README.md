@@ -53,7 +53,7 @@ forecasting on 312 features related to steel smelting processes, resulting in an
 
 
 ### Recommender Systems Design & Five ML Algorithms Implementation (_Sep. 2021 - Nov. 2021_)
-[Code Here](https://github.com/putan1122/portfolio/tree/main/DS_projects/recommendation_system)
+[Code Here](https://github.com/putan1122/portfolio/tree/main/Projects_public/recommendation_system)
 - Investigated and evaluated machine learning algorithms on Amazon recommendation datasets; designed and developed quantitative analysis system to extract samples from datasets with 255,404 users and items
 - Implemented three classical Machine Learning algorithms, e.g., BPRMF, ItemKNN; optimized the classical methods with two state-of-the-art deep learning methods, such as DeepFM and LightGCN with 17% improvement in recall and 11% in Normalized Discounted Cumulative Gain (NDCG)
 - Performed hyper-parameter tuning with 10-fold cross-validation, achieving 75% recall and 56% NDCG
@@ -71,7 +71,7 @@ forecasting on 312 features related to steel smelting processes, resulting in an
 - [Data Science Blog]
 
 - ### Predicting Medical Conditions with InVitro Cell Research (Kaggle Ranked Top 4%) ** (_May 2023 - Aug. 2023_)
-[Code Here](https://github.com/putan1122/portfolio/blob/main/DE_Projects/ICR_lightgbm_baseline.ipynb)
+[Code Here](https://github.com/putan1122/portfolio/tree/main/Projects_public/pred_medical_condition)
   - Identified age-related features in anonymized data, improving balanced log-loss scores
   - Applied robust feature engineering techniques to ensure model stability and scalability on limited datasets [See the competition here](https://www.kaggle.com/competitions/icr-identify-age-related-conditions)
   
