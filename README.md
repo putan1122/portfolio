@@ -70,8 +70,7 @@ forecasting on 312 features related to steel smelting processes, resulting in an
 
 - [Data Science Blog]
 
-- ### Predicting Medical Conditions with InVitro Cell Research (Kaggle Ranked Top 4%)
-** (_May 2023 - Aug. 2023_)
+- ### Predicting Medical Conditions with InVitro Cell Research (Kaggle Ranked Top 4%) ** (_May 2023 - Aug. 2023_)
 [Code Here](https://github.com/putan1122/portfolio/blob/main/DE_Projects/ICR_lightgbm_baseline.ipynb)
   - Identified age-related features in anonymized data, improving balanced log-loss scores
   - Applied robust feature engineering techniques to ensure model stability and scalability on limited datasets [See the competition here](https://www.kaggle.com/competitions/icr-identify-age-related-conditions)
