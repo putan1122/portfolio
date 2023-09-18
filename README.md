@@ -55,7 +55,7 @@ forecasting on 312 features related to steel smelting processes, resulting in an
 
 
 ### Recommender Systems Design & Five ML Algorithms Implementation (_Sep. 2021 - Nov. 2021_)
-[Code Here](https://drive.google.com/file/d/1ig61UdLxVR-UuEGop_c0rCfp4_tZ4W5c/view?usp=sharing)
+[Code Here](https://github.com/putan1122/portfolio/tree/main/DS_projects/recommendation_system)
 - Investigated and evaluated machine learning algorithms on Amazon recommendation datasets; designed and developed quantitative analysis system to extract samples from datasets with 255,404 users and items
 - Implemented three classical Machine Learning algorithms, e.g., BPRMF, ItemKNN; optimized the classical methods with two state-of-the-art deep learning methods, such as DeepFM and LightGCN with 17% improvement in recall and 11% in Normalized Discounted Cumulative Gain (NDCG)
 - Performed hyper-parameter tuning with 10-fold cross-validation, achieving 75% recall and 56% NDCG
@@ -63,14 +63,14 @@ forecasting on 312 features related to steel smelting processes, resulting in an
 
 
 ### Sentiment Analysis for Marketing via NLP (_Sep. 2022 - Nov. 2022_) 
-[Code Here](https://drive.google.com/file/d/1ig61UdLxVR-UuEGop_c0rCfp4_tZ4W5c/view?usp=sharing)
+[Code Here](https://github.com/putan1122/portfolio/tree/main/DS_projects/sentiment_classification)
 - Applied NLPK to process and classify the language text and performed exploratory data analysis on IMDB social media comment and Amazon review with Pandas in Python, ELT processing with SQL queries in Spark
 - Analyzed the reviews with a state-of-the-art deep learning technique, BERT and DistilBERT; evaluated DistilBERT on predicting the positive sentiment assessment and achieved 66% recall, 60% precision
 
 
 ## Publications & Competition
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- [Data Science Blog]
 
 - ### Predicting Medical Conditions with InVitro Cell Research (Kaggle Ranked Top 4%)** (_May 2023 - Aug. 2023_)
 [Code Here](https://drive.google.com/file/d/1ig61UdLxVR-UuEGop_c0rCfp4_tZ4W5c/view?usp=sharing)
