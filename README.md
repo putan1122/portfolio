@@ -1,5 +1,5 @@
 # Pu Tan
-#### Contact: [putan@seas.upenn.edu](mailto:putan@seas.upenn.edu) | (445) 800-6900 | [LinkedIn](https://www.linkedin.com/in/pu-tan1122)
+#### Contact: [putan@seas.upenn.edu](mailto:putan@seas.upenn.edu) | [LinkedIn](https://www.linkedin.com/in/pu-tan1122)
 
 ## Technical Skills
 Programming: Java, Python, SQL, R, JavaScript, MATLAB  
