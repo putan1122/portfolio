@@ -48,12 +48,6 @@ forecasting on 312 features related to steel smelting processes, resulting in an
 
 ## Project Experience
 
-### BookPilot Web Application (_Jan. 2023 - May 2023_) 
-[Demo Here](https://drive.google.com/file/d/1ig61UdLxVR-UuEGop_c0rCfp4_tZ4W5c/view?usp=sharing)
-BookPilot, a web application aimed at streamlining the process of exploring book, author,review
-
-
-
 ### COVID-19 Vaccines Distribution Policy Design with Reinforcement Learning (_Jun. 2021 - Sep. 2021_)
 - Researched and developed linear regression, random forest, and AdaBoost models to estimate confirmed COVID-19 cases in San Diego; implemented deep Q-network (DQN) model with the estimated number of cases to distribute three types of vaccines, decreasing confirmed cases by 1.9%
 - Designed a prediction + optimization framework consisting of random forest and DQN to derive the optimal distribution strategy
