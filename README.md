@@ -7,13 +7,9 @@ Analytics & Tools: MySQL, Anaconda, Apache Spark, Tableau, Visual Studio, Micros
 Libraries: NumPy, Pandas, SciPy, scikit-learn, matplotlib, Plotly, Seaborn, Biogeme
 
 ## Repo
-[ML project here](https://drive.google.com/file/d/1ig61UdLxVR-UuEGop_c0rCfp4_tZ4W5c/view?usp=sharing)
-
-
-[Data Science project here](https://drive.google.com/file/d/1ig61UdLxVR-UuEGop_c0rCfp4_tZ4W5c/view?usp=sharing)
-
-
-[Data Visualization Project here](https://drive.google.com/file/d/1ig61UdLxVR-UuEGop_c0rCfp4_tZ4W5c/view?usp=sharing)
+[ML projects here](https://github.com/putan1122/portfolio)
+[Data Science projects here](https://github.com/putan1122/portfolio)
+[More Projects here](https://github.com/putan1122/portfolio)
 
 ## Education
 - Master of Science in Engineering in Data Science | University of Pennsylvania (_Expected May 2024_)  
@@ -33,7 +29,7 @@ forecasting on 312 features related to steel smelting processes, resulting in an
 
 
 **Data Analyst Intern, San Diego Supercomputer Center (SDSC) Research Data Services, San Diego, CA (_Mar. 2022 - Jun. 2022_)**
-- Conducted hypothesis testing on 6 market cloud services, optimizing strategies like placement and marketing, and employed SVM for Cloud Compute demand prediction with 98.1% accurac
+- Conducted hypothesis testing on 6 market cloud services, optimizing strategies like placement and marketing, and employed SVM for Cloud Compute demand prediction with 98.1% accuracy
 - Managed Dynamics CRM system through complex SQL queries on 650+ records, achieving 60% eﬀiciency improvement
 - Authored comprehensive documentation on client trade flows and developed Tableau dashboards to enhance sales metrics tracking
 - Delivered impactful presentations to external clients on platform utility, successfully retaining key accounts
@@ -64,7 +60,7 @@ forecasting on 312 features related to steel smelting processes, resulting in an
 
 ### Sentiment Analysis for Marketing via NLP (_Sep. 2022 - Nov. 2022_) 
 [Code Here](https://github.com/putan1122/portfolio/tree/main/DS_projects/sentiment_classification)
-- Applied NLPK to process and classify the language text and performed exploratory data analysis on IMDB social media comment and Amazon review with Pandas in Python, ELT processing with SQL queries in Spark
+- Applied NLPK to process and classify the language text and performed exploratory data analysis on IMDB social media comments and Amazon review with Pandas in Python, ELT processing with SQL queries in Spark
 - Analyzed the reviews with a state-of-the-art deep learning technique, BERT and DistilBERT; evaluated DistilBERT on predicting the positive sentiment assessment and achieved 66% recall, 60% precision
 
 
@@ -73,7 +69,7 @@ forecasting on 312 features related to steel smelting processes, resulting in an
 - [Data Science Blog]
 
 - ### Predicting Medical Conditions with InVitro Cell Research (Kaggle Ranked Top 4%)** (_May 2023 - Aug. 2023_)
-[Code Here](https://drive.google.com/file/d/1ig61UdLxVR-UuEGop_c0rCfp4_tZ4W5c/view?usp=sharing)
+[Code Here](https://github.com/putan1122/portfolio/blob/main/DE_Projects/ICR_lightgbm_baseline.ipynb)
   - Identified age-related features in anonymized data, improving balanced log-loss scores
   - Applied robust feature engineering techniques to ensure model stability and scalability on limited datasets [See the competition here](https://www.kaggle.com/competitions/icr-identify-age-related-conditions)
   
