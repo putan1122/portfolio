@@ -46,11 +46,6 @@ forecasting on 312 features related to steel smelting processes, resulting in an
 
 ## Project Experience
 
-### COVID-19 Vaccines Distribution Policy Design with Reinforcement Learning (_Jun. 2021 - Sep. 2021_)
-- Researched and developed linear regression, random forest, and AdaBoost models to estimate confirmed COVID-19 cases in San Diego; implemented deep Q-network (DQN) model with the estimated number of cases to distribute three types of vaccines, decreasing confirmed cases by 1.9%
-- Designed a prediction + optimization framework consisting of random forest and DQN to derive the optimal distribution strategy
-- Summarized the proposed method as a first-author research paper which was published in 2021 4th International Conference on Big Data and Machine Learning (Paper ID: BP2103) [Read the paper here](https://drive.google.com/file/d/1ig61UdLxVR-UuEGop_c0rCfp4_tZ4W5c/view?usp=sharing)
-
 
 ### Recommender Systems Design & Five ML Algorithms Implementation (_Sep. 2021 - Nov. 2021_)
 [Code Here](https://github.com/putan1122/portfolio/tree/main/Projects_public/recommendation_system)
@@ -74,6 +69,10 @@ forecasting on 312 features related to steel smelting processes, resulting in an
 [Code Here](https://github.com/putan1122/portfolio/tree/main/Projects_public/pred_medical_condition)
   - Identified age-related features in anonymized data, improving balanced log-loss scores
   - Applied robust feature engineering techniques to ensure model stability and scalability on limited datasets [See the competition here](https://www.kaggle.com/competitions/icr-identify-age-related-conditions)
-  
+
+### COVID-19 Vaccines Distribution Policy Design with Reinforcement Learning (_Jun. 2021 - Sep. 2021_)
+- Researched and developed linear regression, random forest, and AdaBoost models to estimate confirmed COVID-19 cases in San Diego; implemented deep Q-network (DQN) model with the estimated number of cases to distribute three types of vaccines, decreasing confirmed cases by 1.9%
+- Designed a prediction + optimization framework consisting of random forest and DQN to derive the optimal distribution strategy
+- Summarized the proposed method as a first-author research paper which was published in 2021 4th International Conference on Big Data and Machine Learning (Paper ID: BP2103) [Read the paper here](https://drive.google.com/file/d/1ig61UdLxVR-UuEGop_c0rCfp4_tZ4W5c/view?usp=sharing)
 
 
