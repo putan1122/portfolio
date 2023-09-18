@@ -8,7 +8,9 @@ Libraries: NumPy, Pandas, SciPy, scikit-learn, matplotlib, Plotly, Seaborn, Biog
 
 ## Repo
 [ML projects here](https://github.com/putan1122/portfolio)
+
 [Data Science projects here](https://github.com/putan1122/portfolio)
+
 [More Projects here](https://github.com/putan1122/portfolio)
 
 ## Education
