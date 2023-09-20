@@ -7,11 +7,11 @@ Analytics & Tools: MySQL, Anaconda, Apache Spark, Tableau, Visual Studio, Micros
 Libraries: NumPy, Pandas, SciPy, scikit-learn, matplotlib, Plotly, Seaborn, Biogeme
 
 ## Repo
-[ML projects here](https://github.com/putan1122/portfolio)
+[ML projects here](https://github.com/putan1122/portfolio/tree/main/Projects_public)
 
-[Data Science projects here](https://github.com/putan1122/portfolio)
+[Data Science projects here](https://github.com/putan1122/portfolio/tree/main/Projects_public)
 
-[More Projects here](https://github.com/putan1122/portfolio)
+[More Projects here](https://github.com/putan1122/portfolio/tree/main/Projects_public)
 
 ## Education
 - Master of Science in Engineering in Data Science | University of Pennsylvania (_Expected May 2024_)  
